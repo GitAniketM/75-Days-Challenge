@@ -16,5 +16,10 @@ Daily Coding Challenge for the next 75 Days organized by TechMestro Developer Co
 2. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 3. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 4. [3 Sum](https://leetcode.com/problems/3sum/)
+### Day4:-
+1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+2. [Next Permutation](https://leetcode.com/problems/next-permutation/)
+3. [Insert-Delete-GetRandom](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+4. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 #### To be Continued ...
