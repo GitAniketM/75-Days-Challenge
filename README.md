@@ -21,5 +21,9 @@ Daily Coding Challenge for the next 75 Days organized by TechMestro Developer Co
 2. [Next Permutation](https://leetcode.com/problems/next-permutation/)
 3. [Insert-Delete-GetRandom](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 4. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+### Day5:-
+1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+2. [Rotate Image](https://leetcode.com/problems/rotate-image/)
+3. [Word Search](https://leetcode.com/problems/word-search/)
 
 #### To be Continued ...
