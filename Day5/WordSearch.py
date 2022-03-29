@@ -1,5 +1,5 @@
 class Solution:
-    def exist(self, board: List[List[str]], word: str) -> bool:
+    def exist(self, board: list[list[str]], word: str) -> bool:
         ROWS, COLUMNS = len(board), len(board[0])
         visited = [[False for _ in board[0]] for _ in board]
         def dfs(r, c, nextIndex):
