@@ -25,5 +25,13 @@ Daily Coding Challenge for the next 75 Days organized by TechMestro Developer Co
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 2. [Rotate Image](https://leetcode.com/problems/rotate-image/)
 3. [Word Search](https://leetcode.com/problems/word-search/)
-
+### Day6:-
+1. [3 Sum Closest](https://leetcode.com/problems/3sum-closest/)
+2. [4 Sum](https://leetcode.com/problems/4sum/)
+3. [Game of Life](https://leetcode.com/problems/game-of-life/)
+4. [Pair of Songs](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
+### Day7:-
+1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
+2. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+3. [Maximum Points You can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 #### To be Continued ...
